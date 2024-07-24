@@ -1,7 +1,7 @@
 # This is a VPC Module Using AWS
 
 
-![alt text](images/awsvpc.jpg)
+![alt text](awsvpc.jpg)
 
 Above  is a Reference Archetecture for the VPC Module.
 
