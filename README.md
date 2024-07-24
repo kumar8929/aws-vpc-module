@@ -1,8 +1,6 @@
 # This is a VPC Module Using AWS
 
-
 ![alt text](awsvpc.jpg)
-
 Above  is a Reference Archetecture for the VPC Module.
 
 ### step-by-step approach to setting up a VPC with public, private, and database subnets, along with necessary components such as an Internet Gateway, NAT Gateway, and route tables using Terraform.
